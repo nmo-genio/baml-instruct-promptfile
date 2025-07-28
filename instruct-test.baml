@@ -1,5 +1,13 @@
 // BAML configuration for student lesson instruction system
 // This file defines the structure for delivering educational content through chat
+//
+// Citation:
+// @software{baml,
+//   author = {Vaibhav Gupta, Aaron Villalpando and Boundary ML team},
+//   title = {BAML},
+//   url = {https://github.com/boundaryml/baml},
+//   year = {2024}
+// }
 
 // Define the structure of a lesson
 class Lesson {
