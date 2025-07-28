@@ -18,8 +18,6 @@ Go to [https://www.promptfiddle.com/](https://www.promptfiddle.com/)
 ### 2. Create a New Project
 Click on "New project" button in the PromptFiddle interface
 
-![PromptFiddle New Project](https://github.com/user-attachments/assets/promptfiddle-new-project.png)
-
 ### 3. Copy the BAML Code
 Copy the entire contents of `instruct-test.baml` from this repository
 
@@ -28,7 +26,8 @@ Copy the entire contents of `instruct-test.baml` from this repository
 2. Select a test to run from the dropdown menu
 3. Click "Run" to execute
 
-![PromptFiddle Interface](https://github.com/user-attachments/assets/promptfiddle-interface.png)
+<img width="2547" height="1237" alt="image" src="https://github.com/user-attachments/assets/74a386f0-a0bd-4393-9abf-2bab47e82eea" />
+
 
 ## Available Test Cases
 
