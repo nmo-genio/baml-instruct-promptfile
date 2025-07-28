@@ -73,7 +73,7 @@ test PromptFiddleTest {
 }
 ```
 
-### 🔄 **RecursionHelpTest**
+### **RecursionHelpTest**
 Interactive help for a student struggling with recursive functions and debugging.
 ```baml
 test RecursionHelpTest {
@@ -87,8 +87,9 @@ test RecursionHelpTest {
     }
   }
 }
+```
 
-### 🎯 **AdaptLessonTest**
+###  **AdaptLessonTest**
 Demonstrates how to adapt a lesson based on student performance and struggling areas.
 
 ## Features
